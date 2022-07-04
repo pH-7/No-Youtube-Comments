@@ -1,7 +1,7 @@
 {
   "name": "Hide YouTube Comments",
   "version": "1.0.0",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "description": "Disable YouTube video comments for increasing your productivity and healthy mental space.",
   "background": {
     "scripts": [
@@ -10,7 +10,7 @@
     "persistent": false
   },
   "page_action": {
-    "default_icon": "images/icon-19.png",
+    "default_icon": "images/icon-20.png",
     "default_title": "Disable YouTube comments"
   },
   "permissions": [
@@ -29,7 +29,9 @@
     }
   ],
   "icons": {
-    "48": "images/icon-48.png",
-    "128": "images/icon-128.png"
+    "16": "/images/icon-16.png",
+    "32": "/images/icon-32.png",
+    "48": "/images/icon-48.png",
+    "128": "/images/icon-128.png"
   }
 }
