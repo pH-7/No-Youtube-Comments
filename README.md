@@ -7,7 +7,7 @@ This extension is compatible for Chrome and Brave.
 
 ## ⤵️ Installation
 
-Chrome Button Store
+Chrome Button Store Here
 
 ## 😋 Who built this?
 
